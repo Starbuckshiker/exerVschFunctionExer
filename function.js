@@ -19,4 +19,18 @@ alert(get_max(20,7,15));
         alert('Odd Number');
     }
 
-    
+    function count([num11, num12, num13, num14, num15, num16]){
+        for(var i = 0; i < count.length; i++){
+            if(numbers[i], i >= 20 )
+            else if(numbers[i], i <= 20)
+            console.log(result)
+        }
+        var num11 = "Hello";
+        var num12 = "world";
+        var num13 = "how";
+        var num14 = " don't";
+        var num15 = "this";
+        var num16 = "exercise";
+        var res = str1.concat(str11, str12, str13, str14, str15, str16);
+
+    }
