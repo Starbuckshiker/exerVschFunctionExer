@@ -10,20 +10,24 @@ function get_max( num1, num2, num3){
     return max;
 }
 alert(get_max(20,7,15));
-    console.log()
+console.log("20")
+    
 
     num = 3565
     if ( num % 2 == 0) {
         alert('Even Number');
+        console.log("Even")
     }else{
         alert('Odd Number');
+        console.log("odd")
     }
 
     function count([num11, num12, num13, num14, num15, num16]){
         for(var i = 0; i < count.length; i++){
-            if(numbers[i], i >= 20 )
-            else if(numbers[i], i <= 20)
-            console.log(result)
+            if (count[i], i >= 20 ){
+                console.log("boo")
+         } else if (count[i], i <= 20){
+            console.log("result")}
         }
         var num11 = "Hello";
         var num12 = "world";
